@@ -1,0 +1,12 @@
+.btn{
+	width: 160px;
+	height: 25px;
+}
+a{
+	display: block;
+	color: black;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+}
